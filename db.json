@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "Role": "Teller" },
-    { "id": 2, "Role": "Manager" },
-    { "id": 3, "Role": "Banker" }
+    { "id": 1, "Role": "Teller", "Skill":"Deposit,CreditCard,Safevault" },
+    { "id": 2, "Role": "Manager", "Skill":"Deposit,CreditCard,Safevault,Trust,Investment" },
+    { "id": 3, "Role": "Banker",, "Skill":"IRA,Investments,FixedIncome" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
