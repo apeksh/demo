@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "Role": "Teller", "Skill":"Deposit,CreditCard,Safevault" },
-    { "id": 2, "Role": "Manager", "Skill":"Deposit,CreditCard,Safevault,Trust,Investment" },
-    { "id": 3, "Role": "Banker", "Skill":"IRA,Investments,FixedIncome" }
+    { "Accountid": 1000001, "Accountname": "Deposit", "AccountDesc":"Checking Account" },
+    { "Accountid": 1000002, "Accountname": "Credit", "AccountDesc":"Airline Creditcard" },
+    { "Accountid": 1000003, "Accountname": "Mortgage", "AccountDesc":"Conventional" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
