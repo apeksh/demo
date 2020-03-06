@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "Accountid": 1000001, "Accountname": "Deposit", "AccountType":"Checking Account","AccountBalance":"2888.02" },
-    { "Accountid": 1000002, "Accountname": "Credit", "AccountType":"Airline Creditcard","AccountBalance":"1042.52" },
-    { "Accountid": 1000003, "Accountname": "Mortgage", "AccountType":"Conventional","AccountBalance":"120423.82" }
+    { "Accountid": 1000001, "Accountname": "Deposit", "Accounttype":"Checking Account","AccountBalance":"2888.02" },
+    { "Accountid": 1000002, "Accountname": "Credit", "Accounttype":"Airline Creditcard","AccountBalance":"1042.52" },
+    { "Accountid": 1000003, "Accountname": "Mortgage", "Accounttype":"Conventional","AccountBalance":"120423.82" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
