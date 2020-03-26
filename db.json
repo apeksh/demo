@@ -1,4 +1,9 @@
 {
+  "routing": [
+    { "Accountid": 89751000001, "Accountname": "CheckingAccount","RoutingNumber":"0641092707" },
+    { "Accountid": 77891000002, "Accountname": "SavingAccount", "RoutingNumber":"075403707" },
+    { "Accountid": 64521000003, "Accountname": "MoneyMarketAccount","RoutingNumber":"084134707" }
+  ],
   "posts": [
     { "Accountid": 1000001, "Accountname": "Deposit", "Accounttype":"Checking Account","AccountBalance":"4888.02" },
     { "Accountid": 1000002, "Accountname": "Credit", "Accounttype":"Airline Creditcard","AccountBalance":"4042.52" },
