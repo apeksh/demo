@@ -1,8 +1,8 @@
 {
   "routing": [
-    { "Accountid": "89751000001", "Accountname": "Checking","RoutingNumber":"0641092707" },
-    { "Accountid": "77891000002", "Accountname": "Savings", "RoutingNumber":"075403707" },
-    { "Accountid": "64521000003", "Accountname": "Checking","RoutingNumber":"084134707" }
+    { "Accountid": "89751000001", "Accountype": "Checking","RoutingNumber":"0641092707" },
+    { "Accountid": "77891000002", "Accounttype": "Savings", "RoutingNumber":"075403707" },
+    { "Accountid": "64521000003", "Accounttype": "Checking","RoutingNumber":"084134707" }
   ],
   "posts": [
     { "Accountid": 1000001, "Accountname": "Deposit", "Accounttype":"Checking Account","AccountBalance":"4888.02" },
