@@ -10,12 +10,12 @@
     { "Accountid": 1000003, "Accountname": "Mortgage", "Accounttype":"Conventional","AccountBalance":"420423.82" }
   ],
   "amlkycrisk": [
-    { "taxid": 123456789, "kyccomment": "Verified with low risk", "riskscore": 11 },
-    { "taxid": 999999999, "kyccomment": "Verified with high risk ", "riskscore": 87 }
+    { "taxid": 123456789, "kyccomment": "Verified with low risk", "identityriskscore": 11 },
+    { "taxid": 999999999, "kyccomment": "Verified with high risk ", "identityriskscore": 87 }
   ],
   "taxvalidation": [
-    { "taxid": 123456789, "status": "valid", "riskscore": 649 },
-    { "taxid": 999999999, "status": "invalid", "riskscore": 0 }
+    { "taxid": 123456789, "status": "valid", "creditscore": 649 },
+    { "taxid": 999999999, "status": "invalid", "creditscore": 0 }
   ],
   "profile": {
     "name": "typicode"
