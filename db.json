@@ -10,8 +10,8 @@
     { "Accountid": 1000003, "Accountname": "Mortgage", "Accounttype":"Conventional","AccountBalance":"420423.82" }
   ],
   "amlcomments": [
-    { "id": 1, "comment": "Corporation is verified", "riskscore": 49 },
-    { "id": 2, "comment": "Corporation is lowrisk bussiness", "riskscore": 87 }
+    { "id": 123456789, "comment": "Corporation is verified", "riskscore": 11 },
+    { "id": 999999999, "comment": "Corporation is unverified", "riskscore": 87 }
   ],
   "taxvalidation": [
     { "taxid": 123456789, "status": "valid", "riskscore": 649 },
