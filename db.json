@@ -13,6 +13,10 @@
     { "id": 1, "comment": "Corporation is verified", "riskscore": 49 },
     { "id": 2, "comment": "Corporation is lowrisk bussiness", "riskscore": 87 }
   ],
+  "taxvalidation": [
+    { "taxid": 111111111, "status": "valid", "riskscore": 649 },
+    { "taxid": 999999999, "status": "invalid", "riskscore": 0 }
+  ],
   "profile": {
     "name": "typicode"
   }
