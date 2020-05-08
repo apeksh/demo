@@ -9,9 +9,9 @@
     { "Accountid": 1000002, "Accountname": "Credit", "Accounttype":"Airline Creditcard","AccountBalance":"4042.52" },
     { "Accountid": 1000003, "Accountname": "Mortgage", "Accounttype":"Conventional","AccountBalance":"420423.82" }
   ],
-  "amlcomments": [
-    { "id": 123456789, "comment": "Corporation is verified", "riskscore": 11 },
-    { "id": 999999999, "comment": "Corporation is unverified", "riskscore": 87 }
+  "amlkycrisk": [
+    { "taxid": 123456789, "kyccomment": "Verified with low risk", "riskscore": 11 },
+    { "taxid": 999999999, "kyccomment": "Verified with high risk ", "riskscore": 87 }
   ],
   "taxvalidation": [
     { "taxid": 123456789, "status": "valid", "riskscore": 649 },
