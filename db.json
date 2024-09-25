@@ -18,10 +18,6 @@
     { "taxid": 123456789, "kyccomment": "Verified with low risk", "identityriskscore": 11 },
     { "taxid": 999999999, "kyccomment": "Verified with high risk ", "identityriskscore": 87 }
   ],
-  "taxvalidation": [
-    { "taxid": 123456789, "status": "valid", "creditscore": 649 },
-    { "taxid": 999999999, "status": "invalid", "creditscore": 0 }
-  ],
   "profile": {
     "name": "typicode"
   }
